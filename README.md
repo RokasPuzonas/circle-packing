@@ -1,5 +1,7 @@
 # Circle packing
 
+![Exampel](example.gif)
+
 I was inspired by this video "[Coding Challenge #50.1: Animated Circle Packing](https://www.youtube.com/watch?v=QHEQuoIKgNE)".
 So yeah, this is my implementation of that, but with Lua and a couple extra features.
 
