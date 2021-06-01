@@ -10,3 +10,9 @@ So yeah, this is my implementation of that, but with Lua and a couple extra feat
 To run this project you need to install [Love2D](https://love2d.org) yourself.
 There is a great tutorial on how to do all of this [here](https://love2d.org/wiki/Getting_Started).
 
+## Controls
+
+* Space - Remove all circles
+* Q/E - Decrease/increase speed
+* A/D - Decrease/increase density
+
